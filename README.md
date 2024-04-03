@@ -9,7 +9,7 @@ Tecnologias usadas:
   + pyautogui
 
 Site utilizado para o projeto:
-## [Site](https://dlp.hashtagtreinamentos.com/python/intensivao/login)
+[Site](https://dlp.hashtagtreinamentos.com/python/intensivao/login)
 
 # :four_leaf_clover: Redes-Sociais:
   <a href="https://instagram.com/m.guiof01" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
